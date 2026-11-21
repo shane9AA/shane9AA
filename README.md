@@ -2,7 +2,7 @@
 <!-- 1. HERO BANNER (Replace URL with your own dark anime banner GIF/PNG)  -->
 <!-- ===================================================================== -->
 <div align="center">
-  <img src="https://vercel.app" width="100%" alt="Shane Banner" />
+  <img src="[https://vercel.app](https://i.pinimg.com/1200x/6d/ad/9a/6dad9aba65026a99a0bb85e08162120e.jpg)" width="100%" alt="Shane Banner" />
 </div>
 
 <p align="center">

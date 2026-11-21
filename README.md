@@ -7,15 +7,6 @@
 
 <h1 align="center">✦ SHANE // SYSTEM ARCHITECT & AI FOUNDER ✦</h1>
 
-<p align="center">
-  <img src="https://anovation.in." alt="Typing SVG" />
-</p>
-
-<div align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
 
 <br/>
 

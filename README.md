@@ -8,7 +8,7 @@
 <h1 align="center">✦ SHANE // SYSTEM ARCHITECT & AI FOUNDER ✦</h1>
 
 <p align="center">
-  <img src="https://demolab.com." alt="Typing SVG" />
+  <img src="https://anovation.in." alt="Typing SVG" />
 </p>
 
 <div align="center">

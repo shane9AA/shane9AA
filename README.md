@@ -1,28 +1,28 @@
 
 <!-- ========================================================= -->
-<!-- SHANE | GITHUB PROFILE README                             -->
-<!-- Replace YOUR_GITHUB_USERNAME with your actual username.   -->
+<!-- SHANE | COSMIC AI ENGINEER PROFILE                        -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,45:312E81,100:0891B2&height=250&section=header&text=SHANE&fontSize=80&fontColor=FFFFFF&fontAlignY=37&desc=AI%20ENGINEER%20%7C%20SYSTEMS%20ARCHITECT%20%7C%20FOUNDER&descSize=16&descAlignY=57&descColor=C4B5FD&animation=fadeIn" width="100%" />
+<img src="https://i.pinimg.com/1200x/6d/ad/9a/6dad9aba65026a99a0bb85e08162120e.jpg" width="100%" alt="Shane Cosmic Architect Banner"/>
 
-# ✦ Building Intelligence. Engineering Possibilities. ✦
+<br/>
 
-### Turning imagination into intelligent, scalable software.
+# ✦ SHANE // SYSTEM ARCHITECT & AI FOUNDER ✦
 
-<p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://anovation.in">
-    <img src="https://img.shields.io/badge/Building-Anovation-7C3AED?style=for-the-badge&logo=rocket&logoColor=white"/>
-  </a>
-</p>
+### Building Intelligence. Engineering Possibilities.
+
+*Turning imagination into intelligent, scalable software.*
+
+<br/>
+
+<a href="https://github.com/shane9AA">
+  <img src="https://img.shields.io/badge/GitHub-shane9AA-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://anovation.in">
+  <img src="https://img.shields.io/badge/Building-Anovation-7C3AED?style=for-the-badge&logo=rocket&logoColor=white"/>
+</a>
 
 </div>
 
@@ -34,7 +34,7 @@
 
 I'm **Shane** — a developer, founder, and product builder fascinated by the intersection of Artificial Intelligence, software engineering, and human imagination.
 
-I enjoy working across the product lifecycle: from understanding an idea and designing its architecture to engineering intelligent systems and turning them into usable products.
+I enjoy working across the entire product lifecycle: from understanding an idea and designing its architecture to engineering intelligent systems and turning them into usable products.
 
 My focus is on building software that doesn't just respond, but can **reason, retrieve information, make decisions, and execute tasks.**
 
@@ -65,7 +65,7 @@ interests:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
 
 </div>
 
@@ -136,7 +136,7 @@ flowchart TB
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,postgres,mongodb,redis,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,postgres,mongodb,redis,git,github&theme=dark"/>
 
 </div>
 
@@ -148,7 +148,7 @@ flowchart TB
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,html,css,tailwind&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,html,css,tailwind&theme=dark&perline=10"/>
 
 </div>
 
@@ -166,8 +166,6 @@ flowchart TB
 
 I believe the next generation of software will be built around intelligent systems rather than isolated applications.
 
-My long-term interests include:
-
 - **Agentic Operating Systems:** AI agents capable of managing complex workflows.
 - **Personal AI:** Context-aware assistants that understand users and their environments.
 - **Intelligent SaaS:** Turning repetitive business processes into autonomous workflows.
@@ -180,15 +178,15 @@ My long-term interests include:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shane9AA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shane9AA&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shane9AA&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&hide_border=true"/>
 
 </div>
 
@@ -204,7 +202,7 @@ I'm interested in understanding how things work, challenging existing limitation
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:09090F&height=130&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:09090F&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 ### ✦ "The future is not something we wait for. It's something we engineer." ✦
 
